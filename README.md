@@ -3,13 +3,13 @@
 const aboutMe = {  
    pronouns: "she" || "her",  
    code: [ JavaScript, HTML, CSS],  
-   technologies: {  
+   technologies: { 
       frontEnd: {  
          js: [React, "jQuery", "Web Components"],  
          css: [ "Styled-Components", "Bootstrap", "Semantic UI"],  
          templates: ["Handlebars"]  
       },  
-      backEnd: {  
+      backEnd: {
          js: ["Node", "Express"],  
          misc: [GraphQL, ]  
       },  

@@ -3,14 +3,20 @@
 <!--
 **cbaird21/cbaird21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const aboutMe = {
+   pronouns: "she" | "her",
+   code: [Javascript, HTML, CSS, Node, React, GraphQL, Express, NoSQL],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: [ "Bootstrap", "Semantic UI"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+      },
+      databases: ["MongoDB", "mySQL", "NoSQL"],
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards learning TypeScript and React Native",
+};

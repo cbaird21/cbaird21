@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**cbaird21/cbaird21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 const aboutMe = {
    pronouns: "she" | "her",
    code: [Javascript, HTML, CSS, Node, React, GraphQL, Express, NoSQL],
@@ -20,3 +16,6 @@ const aboutMe = {
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working towards learning TypeScript and React Native",
 };
+<h2>💻 Some stats 💻</h2>
+
+![cbaird21's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)

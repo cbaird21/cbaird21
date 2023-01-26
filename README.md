@@ -3,15 +3,15 @@
 const aboutMe = {  
    pronouns: "she" || "her",  
    code: [ JavaScript, HTML, CSS],  
-   technologies: { 
-      frontEnd: {  
-         js: [React, "jQuery", "Web Components"],  
-         css: [ "Styled-Components", "Bootstrap", "Semantic UI"],  
-         templates: ["Handlebars"]  
+   technologies: {    
+         frontEnd: {  
+            js: [React, "jQuery", "Web Components"],  
+            css: [ "Styled-Components", "Bootstrap", "Semantic UI"],  
+            templates: ["Handlebars"]  
       },  
       backEnd: {
-         js: ["Node", "Express"],  
-         misc: [GraphQL, ]  
+            js: ["Node", "Express"],  
+            misc: [GraphQL, ]  
       },  
    },   
    

@@ -10,9 +10,11 @@
 
     tools: [npm, Redux, Jest, graphQL, Apollo, Mongoose, MongoDB ],  
 
-    architecture: ["Agile", "Scrum", "Kahnban"],  
+    architecture: ["Agile", "Scrum", "Kahnban"],   
 
-    challenge: "I am doing the #30DaysOfCode challenge focused on React"  
+    hobbies: ["I love watching hockey!", "I enjoy camping and the outdoors", "Quality time with family and friends is a high priority for me"],
+
+    challenge: "I am learning TypeScript and React Redux to add to my knowledge of react."  
 ## }
 
 

@@ -9,7 +9,7 @@
 
     stack: [HTML, CSS, JavaScript, Express, Node, React, MongoDB],  
 
-    tools: [npm, Redux, Jest, graphQL, Apollo, Mongoose, MongoDB ],  
+    tools: [Npm, Redux, Jest, GraphQL, Apollo, Mongoose, MongoDB ],  
 
     architecture: ["Agile", "Scrum", "Kahnban"],   
 

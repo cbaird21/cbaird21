@@ -1,5 +1,6 @@
 ## Hi there 👋  
 
+```javascript
 ## const Chandler = {
 
     description: "Full-Stack Web Developer with a focus on the M.E.R.N. stack",  

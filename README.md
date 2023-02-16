@@ -15,7 +15,7 @@
 
     hobbies: ["I love watching hockey!", "I enjoy camping and the outdoors", "Quality time with family and friends is a high priority for me"],
 
-    challenge: "I am learning TypeScript and React Redux to add to my knowledge of react."  
+    challenge: "I am learning TypeScript and working on earning my CSM to add to my knowledge of react."  
  }
 
 ```

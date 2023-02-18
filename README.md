@@ -3,7 +3,7 @@
 ```javascript
  const Chandler = {
 
-    description: "Full-Stack Web Developer with a focus on the M.E.R.N. stack",  
+    description: "Full-Stack Web Developer with a focus on the M.E.R.N. stack, Certified Scrum Master",  
 
     pronouns: "She" || "Her",  
 
